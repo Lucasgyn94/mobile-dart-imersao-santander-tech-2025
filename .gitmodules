@@ -7,3 +7,6 @@
 [submodule "plano_de_estudo_mobile_nivelamento/semana_03/01_curso_git_e_github_compartilhando_e_colaborando_em_projetos/aulas_02_colaborando_em_projetos/desafio_hora_da_pratica/desafio"]
 	path = plano_de_estudo_mobile_nivelamento/semana_03/01_curso_git_e_github_compartilhando_e_colaborando_em_projetos/aulas_02_colaborando_em_projetos/desafio_hora_da_pratica/desafio
 	url = https://github.com/Lucasgyn94/repo--aula-02-colaborando-em-projetos.git
+[submodule "plano_de_estudo_mobile_nivelamento/semana_03/01_curso_git_e_github_compartilhando_e_colaborando_em_projetos/aulas_03_utilizando_git_na_ide/desafio_hora_da_pratica/desafio-resolucao-conflitos"]
+	path = plano_de_estudo_mobile_nivelamento/semana_03/01_curso_git_e_github_compartilhando_e_colaborando_em_projetos/aulas_03_utilizando_git_na_ide/desafio_hora_da_pratica/desafio-resolucao-conflitos
+	url = https://github.com/Lucasgyn94/repo-aula-03-utilizando-git-na-ide.git
