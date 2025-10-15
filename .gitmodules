@@ -4,3 +4,6 @@
 [submodule "plano_de_estudo_mobile_nivelamento/semana_03/01_curso_git_e_github_compartilhando_e_colaborando_em_projetos/aulas_01_compartilhando_projetos/desafio_hora_da_pratica/js-game-number-secret"]
 	path = plano_de_estudo_mobile_nivelamento/semana_03/01_curso_git_e_github_compartilhando_e_colaborando_em_projetos/aulas_01_compartilhando_projetos/desafio_hora_da_pratica/js-game-number-secret
 	url = https://github.com/Lucasgyn94/js-game-number-secret.git
+[submodule "plano_de_estudo_mobile_nivelamento/semana_03/01_curso_git_e_github_compartilhando_e_colaborando_em_projetos/aulas_02_colaborando_em_projetos/desafio_hora_da_pratica/desafio"]
+	path = plano_de_estudo_mobile_nivelamento/semana_03/01_curso_git_e_github_compartilhando_e_colaborando_em_projetos/aulas_02_colaborando_em_projetos/desafio_hora_da_pratica/desafio
+	url = https://github.com/Lucasgyn94/repo--aula-02-colaborando-em-projetos.git
