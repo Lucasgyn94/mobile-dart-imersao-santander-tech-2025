@@ -10,3 +10,6 @@
 [submodule "plano_de_estudo_mobile_nivelamento/semana_03/01_curso_git_e_github_compartilhando_e_colaborando_em_projetos/aulas_03_utilizando_git_na_ide/desafio_hora_da_pratica/desafio-resolucao-conflitos"]
 	path = plano_de_estudo_mobile_nivelamento/semana_03/01_curso_git_e_github_compartilhando_e_colaborando_em_projetos/aulas_03_utilizando_git_na_ide/desafio_hora_da_pratica/desafio-resolucao-conflitos
 	url = https://github.com/Lucasgyn94/repo-aula-03-utilizando-git-na-ide.git
+[submodule "plano_de_estudo_mobile_nivelamento/semana_04/curso_logica_de_programacao_praticndo_com_desafios/aula_01_projeto_sorteador_de_numeros/sorteador-numeros"]
+	path = plano_de_estudo_mobile_nivelamento/semana_04/curso_logica_de_programacao_praticndo_com_desafios/aula_01_projeto_sorteador_de_numeros/sorteador-numeros
+	url = https://github.com/Lucasgyn94/js-sorteador-de-numeros.git
