@@ -16,3 +16,6 @@
 [submodule "plano_de_estudo_mobile_nivelamento/semana_04/curso_logica_de_programacao_praticndo_com_desafios/aula_02_projeto_alugames/alugames"]
 	path = plano_de_estudo_mobile_nivelamento/semana_04/curso_logica_de_programacao_praticndo_com_desafios/aula_02_projeto_alugames/alugames
 	url = https://github.com/Lucasgyn94/js-alugames.git
+[submodule "plano_de_estudo_mobile_nivelamento/semana_04/curso_logica_de_programacao_praticndo_com_desafios/aula_03_projeto_carrinho_de_compras/carrinho-compras"]
+	path = plano_de_estudo_mobile_nivelamento/semana_04/curso_logica_de_programacao_praticndo_com_desafios/aula_03_projeto_carrinho_de_compras/carrinho-compras
+	url = https://github.com/Lucasgyn94/js-carrinho-compras.git
