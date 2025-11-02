@@ -1,0 +1,1 @@
+Remova o último elemento de novaLista. Imprima novaLista após a remoção.
