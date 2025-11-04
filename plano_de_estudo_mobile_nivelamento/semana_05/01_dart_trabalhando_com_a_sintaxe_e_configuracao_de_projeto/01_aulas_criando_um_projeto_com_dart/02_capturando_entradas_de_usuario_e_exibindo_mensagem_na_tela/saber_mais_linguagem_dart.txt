@@ -1,0 +1,37 @@
+O que é o Dart?
+O Dart é uma linguagem de programação criada para nós, pessoas humanas, nos comunicarmos com a máquina. Até aqui tudo bem, certo?
+
+Criado em 2012 pela Google, o Dart é uma linguagem orientada a objetos (veremos mais sobre orientação objetos em outro momento, não se preocupe com isso agora).
+
+Inicialmente, ele foi criado como uma alternativa ao JavaScript (atualmente empregado em muitas aplicações). Embora esse objetivo não tenha sido alcançado, hoje o Dart consegue compilar seu código para JavaScript.
+
+Em 2017, foi lançado o Flutter, um "framework" (pense como uma “ferramenta”). Essa ferramenta usa a linguagem Dart para criar aplicativos de celular multiplataforma. Com ela, você pode criar aplicativos para dispositivos iOS (iPhone) Android (de empresas como Xiaomi, Motorola, LG, Samsung etc).
+
+Atualmente, o Flutter é a ferramenta mais empregada para criar aplicativos multiplataforma. E a base do Flutter é o Dart. Logo, o domínio do Dart é essencial para se virar no mercado de trabalho e produzir aplicativos de qualidade.
+
+Agora que você compreendeu o que é o Dart, vamos ver os motivos de utilizá-lo.
+
+Por que utilizar o Dart?
+O Dart tem ótimas qualidades, a começar pela curva de aprendizado. Devido à sintaxe e a interoperabilidade, fica mais simples aprender e fazer ações que costumam ser mais complexas em outras linguagens.
+
+A documentação do Dart também é incrível! O time da Google capricha na documentação. Logo, você encontra informações facilmente por lá.
+
+Outro motivo é a performance. Uma boa linguagem tem boa performance, que pode ser rápida ou potente. Preferimos uma linguagem eficiente, que rode em um tempo ágil e com qualidade.
+
+O Dart está em ascensão no mercado e em empresas ao redor do mundo. Há investimentos na linguagem e muitas pessoas procuram por ela, ou seja, há oportunidades. Adianto que essas oportunidades demandam estudo e esforço. Mas é um caminho absolutamente possível!
+
+Além disso, você pode contar com ferramentas que facilitam o uso da linguagem, como o famoso Flutter. Outra ferramenta, que facilita a criação de outros tipos de aplicações, é o Flame, uma biblioteca que permite a criação de jogos 2D, também usando Dart.
+
+O Jaguar é outro framework que, com Dart, permite a criação de servidores, ou seja, o back-end. Existem muitas outras ferramentas, porém, a partir destas, você tem uma ideia de que o Dart é utilizado por vários frameworks para criar aplicações.
+
+Em 2021, o Flutter se tornou o Framework Mobile Multiplataforma mais usado no mundo. Então, se a linguagem Dart é a base do Flutter, significa que muitas pessoas a utilizam dentro de grandes empresas como:
+
+Google;
+iFood;
+eBay;
+Alibaba.
+Aprender Dart pode ser uma boa escolha na carreira de uma pessoa desenvolvedora.
+
+Conclusão
+Com isso, entendemos a origem do Dart e sua evolução. Em seguida, surgiu o Flutter, que consolidou a linguagem no mercado. Espero que você tenha se empolgado para continuar os estudos dessa linguagem incrível!
+
