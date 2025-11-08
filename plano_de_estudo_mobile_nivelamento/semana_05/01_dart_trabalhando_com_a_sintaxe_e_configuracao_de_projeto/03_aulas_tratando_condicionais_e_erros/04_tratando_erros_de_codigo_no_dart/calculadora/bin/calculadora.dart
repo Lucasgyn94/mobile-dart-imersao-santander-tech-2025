@@ -35,6 +35,7 @@ double capturarSegundoNumero() {
   }
   return 0.0;
 }
+
 double capturarPrimeiroNumero() {
   print("Digite o primeiro número: ");
   String? entrada = stdin.readLineSync();
@@ -81,19 +82,15 @@ void main() {
 
   switch(operacao) {
     case "+":
-    case "a":
       adicao(n1, n2);
       break;
     case "-":
-    case "s":
       subtracao(n1, n2);
       break;
     case "*":
-    case "m":
       multiplicacao(n1, n2);
       break;
     case "/":
-    case "d":
       divisao(n1, n2);
       break;
     default: print("Opção inválida!");
