@@ -48,15 +48,14 @@ void main() {
 
   if ((operacao == "+") || (operacao.startsWith("a"))) {
     adicao(n1, n2);
-  }
-  if ((operacao == "-") || (operacao.startsWith("s"))) {
+  } else if ((operacao == "-") || (operacao.startsWith("s"))) {
     subtracao(n1, n2);
-  }
-  if ((operacao == "*") || (operacao.startsWith("m"))) {
+  } else if ((operacao == "*") || (operacao.startsWith("m"))) {
     multiplicacao(n1, n2);
-  }
-  if ((operacao == "/") || (operacao.startsWith("d"))) {
+  } else if ((operacao == "/") || (operacao.startsWith("d"))) {
     divisao(n1, n2);
+  } else {
+    print("Operação '$operacao' inválida!");
   }
 }
 
