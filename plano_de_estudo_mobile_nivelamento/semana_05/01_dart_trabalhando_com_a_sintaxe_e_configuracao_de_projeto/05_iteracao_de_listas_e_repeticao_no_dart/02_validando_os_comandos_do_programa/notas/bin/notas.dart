@@ -2,6 +2,12 @@ import 'dart:io';
 
 List<String> notas = <String>[];
 
+void imprimirNotas(List<String> notas) {
+  for (int i = 0; i < notas.length; i++) {
+    print(notas[i]);
+  }
+}
+
 List<String> adicionarNota(List<String> notas) {
   print("Escreva uma nota a ser adicionada: ");
   String? nota = "";
@@ -40,4 +46,7 @@ String capturarOpcaoUsuario() {
 void main() {
   capturarOpcaoUsuario();
   adicionarNota(notas);
+  adicionarNota(notas);
+  adicionarNota(notas);
+  imprimirNotas(notas);
 }
