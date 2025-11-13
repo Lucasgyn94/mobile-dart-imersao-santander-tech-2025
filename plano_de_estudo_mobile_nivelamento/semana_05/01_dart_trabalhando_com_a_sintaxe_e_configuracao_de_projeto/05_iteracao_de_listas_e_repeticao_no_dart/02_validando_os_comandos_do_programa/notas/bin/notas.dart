@@ -1,5 +1,23 @@
 import 'dart:io';
 
+List<String> notas = <String>[];
+
+List<String> adicionarNota(List<String> notas) {
+  print("Escreva uma nota a ser adicionada: ");
+  String? nota = "";
+
+  nota = stdin.readLineSync();
+
+  if (nota == null || nota.isEmpty) {
+    print("Não é possível adicionar uma nota vazia");
+    adicionarNota(notas);
+  }
+
+  notas.add(nota!);
+  print("Nota - $nota - adicionado com sucesso!");
+  return notas;
+}
+
 String capturarOpcaoUsuario() {
   List<String> comandos = <String>["1", "2", "3"];
 
@@ -21,4 +39,5 @@ String capturarOpcaoUsuario() {
 
 void main() {
   capturarOpcaoUsuario();
+  adicionarNota(notas);
 }
