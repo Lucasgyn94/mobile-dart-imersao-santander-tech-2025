@@ -1,8 +1,9 @@
 import 'dart:io';
 
 void menu(List<String> notas) {
+  print("");
   String comando = capturarOpcaoUsuario();
-
+  print("");
   switch (comando) {
     case "1":
       adicionarNota(notas);
@@ -42,6 +43,12 @@ List<String> adicionarNota(List<String> notas) {
 
 String capturarOpcaoUsuario() {
   List<String> comandos = <String>["1", "2", "3"];
+
+  print("              _               ");
+  print(" _ _    ___  | |_   __ _   ___");
+  print("| ' \  / _ \ |  _| / _` | (_-<");
+  print("|_||_| \___/  \__| \__,_| /__/");
+  print("");
 
   print("Digite um comando: ");
   print("1- Adicionar Nota");
