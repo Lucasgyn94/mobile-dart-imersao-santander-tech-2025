@@ -10,8 +10,8 @@ void main() {
 
   print('\n===============================================\n');
 
-  contaLucas.receberValor(contaLucas, 500);
-  contaThor.receberValor(contaThor, 2000);
+  contaLucas.receberValor(500);
+  contaThor.receberValor(999);
 
   for (Conta c in contas) {
     print('${c.titular} - ${c.saldo}');
@@ -24,11 +24,11 @@ class Conta {
 
   Conta(this.titular, this.saldo);
 
-  void receberValor(Conta conta, double valor) {
-    conta.saldo += valor;
+  void receberValor(double valor) {
+    this.saldo += valor;
   }
 
-  void enviarValor(Conta conta, double valor) {
-    conta.saldo -= valor;
+  void enviarValor(double valor) {
+    this.saldo -= valor;
   }
 }
